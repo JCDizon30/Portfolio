@@ -22,10 +22,6 @@ body {
     background-attachment: fixed; 
 }
 
-h1 {
-    animation: float 3s ease-in-out infinite; 
-}
-
 /* NAVBAR */
 nav{
     background: transparent;
