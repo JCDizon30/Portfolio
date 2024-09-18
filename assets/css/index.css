@@ -175,7 +175,6 @@ button a:hover {
 iframe {
   margin-top: 20px;
   width: 100%;
-  max-width: 1000px;
   max-height: 500px;
   border: 0;  
 }
